@@ -11,7 +11,7 @@ class TwoSum {
             int sum = arr[left] + arr[right];
 
             if (sum == target) {
-                return new int[] { arr[left], arr[right] };
+                return new int[] { left, right };
             } else if (sum < target) {
                 left++;
             } else {
