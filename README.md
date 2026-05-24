@@ -1,4 +1,4 @@
-# DS-Algo-Question-with-Patterns
+# DS-Algo-Question-with-Patterns-Revision
 
 A collection of Data Structures & Algorithms problems solved pattern-wise to improve problem-solving skills, coding logic, and interview preparation.
 
